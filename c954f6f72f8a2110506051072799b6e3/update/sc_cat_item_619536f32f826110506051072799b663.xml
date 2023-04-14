@@ -8,13 +8,13 @@
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description><![CDATA[<p>ASC Management</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="ASC Approval">d4b393bf2fc26110506051072799b6b7</flow_designer_flow>
         <fulfillment_automation_level>fully_automated</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -64,14 +64,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-14 04:00:37</sys_created_on>
         <sys_id>619536f32f826110506051072799b663</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>ASC Application</sys_name>
         <sys_package display_value="ACS Application" source="x_116375_acs_appli">c954f6f72f8a2110506051072799b6e3</sys_package>
         <sys_policy/>
         <sys_scope display_value="ACS Application">c954f6f72f8a2110506051072799b6e3</sys_scope>
         <sys_update_name>sc_cat_item_619536f32f826110506051072799b663</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-14 04:08:32</sys_updated_on>
+        <sys_updated_on>2023-04-14 05:30:28</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
